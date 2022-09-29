@@ -14,6 +14,7 @@ public class buytoys {
                 break;
             }
         }
+        System.out.println();
     }
 
     public static void main(String[] args) {
