@@ -23,6 +23,7 @@ public class leadersarray {
                 a[j]=x.nextInt();
             }
             leaders(a,n);
+            System.out.println();
         }
 
     }
